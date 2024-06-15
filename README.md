@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Nidheesh Balachandran! 👋
 
-<!--
-**nidheeshvb/nidheeshvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a frontend developer and UI/UX designer with over 9 years of experience. I specialize in creating dynamic and engaging web interfaces.
 
-Here are some ideas to get you started:
+## About Me
+- 🌟 **Experience**: 9+ years in web UI and frontend development
+- 🎨 **Design**: Creative UI/UX designer passionate about web animations
+- 🔧 **Tech Stack**: React, Vue.js, Vanilla JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/nidheeshvb/)
+- [Twitter](https://twitter.com/)
+
+Thanks for visiting!
