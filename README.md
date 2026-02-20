@@ -1,9 +1,11 @@
-# Hi there, I'm Nidheesh Balachandran! 👋
-Frontend Developer | React | JavaScript | UI Engineering
+<h1 align="center">Hi, I'm Nidheesh 👋</h1>
+<h3 align="center">Senior Frontend Engineer | UI Architecture | React Ecosystem</h3>
+<p align="center">
+  Building scalable frontend systems, mentoring engineers, and designing production-ready architectures.
+</p>
 
-Welcome to my GitHub profile! I'm a frontend developer and UI/UX designer with over 10 years of experience. I specialize in creating dynamic and engaging web interfaces.
-
-## About Me
+## 🚀 About Me
+- 💼 Senior Frontend Engineer & Technical Lead 
 - 🌟 **Experience**: 10+ years in web UI and frontend development
 - 🔧 **Tech Stack**: React, Vue.js, Vanilla JavaScript
 - 🎨 **Design**: Creative UI/UX designer passionate about web animations - Figma, Adobe creative suite
