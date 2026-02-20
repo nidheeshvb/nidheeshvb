@@ -42,6 +42,9 @@ Welcome to my GitHub profile! I'm a frontend developer and UI/UX designer with o
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="22"/>
   <img src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" height="22"/>
 </p>
+## 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,ts,redux,graphql,apollo,html,css,sass,nodejs,nestjs,mongodb,docker,githubactions,gcp,webpack,rollup,git,npm)
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/nidheeshvb/)
 - [Twitter](https://twitter.com/)
