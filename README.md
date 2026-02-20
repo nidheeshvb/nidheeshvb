@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Nidheesh 👋</h1>
-<h3 align="center">Senior Frontend Engineer | UI Architecture | React Ecosystem</h3>
-<p align="center">
+<h1>Hi, I'm Nidheesh 👋</h1>
+<h3>Senior Frontend Engineer | UI Architecture | React Ecosystem</h3>
+<p>
   Building scalable frontend systems, mentoring engineers, and designing production-ready architectures.
 </p>
 
@@ -17,10 +17,9 @@
 - Performance optimization (bundle size, rendering, caching)  
 - Clean code & maintainable folder structures  
 - CI/CD & frontend DevOps integration  
-- Proof of Concepts for new engineering solutions  
+- POC's for new engineering solutions  
 
 ## 🚀 Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="22"/>
@@ -48,7 +47,6 @@
   <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" height="22"/>
   <img src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" height="22"/>
 </p>
-
 
 ## 📫 Let's Connect
 
